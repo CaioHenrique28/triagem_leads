@@ -7,12 +7,11 @@ Este projeto apresenta uma solução de **Inteligência de Dados e Automação**
 ---
 
 ## 📺 Demonstração do Fluxo (Vídeo)
-Abaixo, veja o sistema a processar em tempo real um lead VIP (Dra. Helena). Note como a IA ignora o campo "Aluguer" do formulário para focar na intenção de compra de **R$ 5.5 milhões** descrita no comentário.
+Confira o sistema a identificar um lead VIP em tempo real. Se o vídeo não carregar abaixo, clique no link para assistir.
 
-<video src="https://github.com/CaioHenrique28/triagem_leads/raw/main/assets/triagem_leads.mp4" width="100%" controls>
-  O seu navegador não suporta a reprodução de vídeos. 
-  <a href="https://github.com/CaioHenrique28/triagem_leads/raw/main/assets/triagem_leads.mp4">Clique aqui para descarregar o vídeo</a>.
-</video>
+https://github.com/CaioHenrique28/triagem_leads/assets/triagem_leads.mp4
+
+[▶️ Clique aqui para assistir ao vídeo de demonstração](https://github.com/CaioHenrique28/triagem_leads/blob/main/assets/triagem_leads.mp4)
 
 ---
 
