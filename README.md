@@ -1,23 +1,16 @@
 # 🚀 Smart Lead Scoring: IA para Real Estate
 
-[![Testar IA Ao Vivo](https://img.shields.io/badge/Simulador-Testar_Agora-brightgreen?style=for-the-badge)](https://caio.github.io/triagem_leads/)
+[![Testar IA Ao Vivo](https://img.shields.io/badge/Simulador-Testar_Agora-brightgreen?style=for-the-badge)](https://CaioHenrique28.github.io/triagem_leads/)
 
-### 🏠 O Problema de Negócio
-No setor imobiliário, leads de alto padrão muitas vezes são perdidos porque preenchem formulários rapidamente. Um investidor com **R$ 9.5 milhões** pode ser classificado como "lead frio" por marcar opções padrão no site.
+Este projeto utiliza IA Generativa para triagem qualitativa de leads, resolvendo o problema de "falsos negativos" em formulários imobiliários.
 
-### 🤖 A Solução com Gemini 2.5 Flash
-Desenvolvi uma automação inteligente (n8n) que utiliza o **Gemini 2.5 Flash** para analisar o comentário real do cliente, ignorando as limitações do formulário.
+## 📺 Demonstração em Vídeo
+Confira o sistema processando um lead VIP em tempo real:
 
-**Principais Inovações Técnicas:**
-* **Regra de Prioridade (Golden Rule):** A IA prioriza o campo de texto livre sobre os dados estruturados.
-* **Data Merging (JavaScript):** Implementei lógica em Node.js/JS para garantir a integridade dos dados, fundindo a análise da IA com os dados de contato, eliminando erros de valores nulos.
-* **Persistência NoSQL:** Armazenamento automático em MongoDB para análise histórica.
+https://github.com/CaioHenrique28/triagem_leads/blob/main/assets/triagem_leads.mp4
 
-### 🛠️ Stack Tecnológica
-* **Orquestração:** n8n
-* **IA:** Google Gemini 2.5 Flash
-* **Database:** MongoDB Atlas
-* **Linguagem:** JavaScript para tratamento de objetos JSON
-
----
-*Desenvolvido por Caio - Engenheiro de Dados focado em Soluções de Automação e IA.*
+## 🛠️ Tecnologias Utilizadas
+* **n8n**: Orquestração de workflows.
+* **Google Gemini 2.5 Flash**: Análise de intenção e urgência.
+* **MongoDB**: Persistência de dados NoSQL.
+* **JavaScript**: Lógica de merge e sanitização de dados.
