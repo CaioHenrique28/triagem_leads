@@ -9,7 +9,7 @@ Este projeto apresenta uma solução de **Inteligência de Dados e Automação**
 ## 📺 Demonstração do Fluxo (Vídeo)
 Confira o sistema a identificar um lead VIP em tempo real. Se o vídeo não carregar abaixo, clique no link para assistir.
 
-https://github.com/CaioHenrique28/triagem_leads/assets/triagem_leads.mp4
+[https://github.com/CaioHenrique28/triagem_leads/assets/triagem_leads.mp4](https://github.com/CaioHenrique28/triagem_leads/raw/main/assets/triagem_leads.mp4)
 
 [▶️ Clique aqui para assistir ao vídeo de demonstração](https://github.com/CaioHenrique28/triagem_leads/blob/main/assets/triagem_leads.mp4)
 
