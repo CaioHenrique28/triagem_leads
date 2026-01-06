@@ -6,13 +6,11 @@ Este projeto apresenta uma solução de **Inteligência de Dados e Automação**
 
 ---
 ## 📺 Demonstração do Fluxo (Vídeo)
-Assista à análise em tempo real da IA identificando o lead VIP (Dra. Helena):
+Assista à análise em tempo real da IA a identificar o lead VIP:
 
-<video src="https://github.com/CaioHenrique28/triagem_leads/raw/main/assets/triagem_leads.mp4" width="100%" controls>
-  Seu navegador não suporta a reprodução de vídeos.
-</video>
+https://github-production-user-asset-6210df.s3.amazonaws.com/197803257/532441447-9ba8b28a-1865-4272-b8e8-7eef5f8f5de0.mp4
 
-[▶️ Clique aqui caso o player não carregue](https://github.com/CaioHenrique28/triagem_leads/blob/main/assets/triagem_leads.mp4)
+[▶️ Clique aqui caso o player não carregue](COLE_AQUI_O_LINK_QUE_O_GITHUB_GEROU)
 
 ## 💡 O Problema de Negócio
 No setor imobiliário de alto padrão, a velocidade e a precisão na triagem são críticas. Muitos investidores preenchem formulários de forma apressada. Um lead com potencial de milhões pode ser classificado como "frio" apenas por selecionar uma opção padrão, resultando em perda de receita.
