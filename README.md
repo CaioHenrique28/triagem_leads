@@ -31,7 +31,7 @@ A arquitetura utiliza o **Google Gemini 2.5 Flash** para ler cada lead como um c
 ## 📺 Demonstração em Tempo Real
 Assista como a IA processa um lead complexo e entrega uma análise pronta para o time comercial:
 
-https://github.com/CaioHenrique28/triagem_leads/raw/main/assets/triagem_leads.mp4
+https://github-production-user-asset-6210df.s3.amazonaws.com/197803257/532441447-9ba8b28a-1865-4272-b8e8-7eef5f8f5de0.mp4
 
 ---
 
