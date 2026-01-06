@@ -5,13 +5,14 @@
 Este projeto apresenta uma solução de **Inteligência de Dados e Automação** de alto impacto para o mercado imobiliário. O sistema utiliza IA Generativa para identificar intenções de compra de luxo que são frequentemente ignoradas por filtros rígidos de formulários convencionais.
 
 ---
-
 ## 📺 Demonstração do Fluxo (Vídeo)
+Assista à análise em tempo real da IA identificando o lead VIP (Dra. Helena):
 
-https://github.com/CaioHenrique28/triagem_leads/raw/main/assets/triagem_leads.mp4
+<video src="https://github.com/CaioHenrique28/triagem_leads/raw/main/assets/triagem_leads.mp4" width="100%" controls>
+  Seu navegador não suporta a reprodução de vídeos.
+</video>
 
 [▶️ Clique aqui caso o player não carregue](https://github.com/CaioHenrique28/triagem_leads/blob/main/assets/triagem_leads.mp4)
----
 
 ## 💡 O Problema de Negócio
 No setor imobiliário de alto padrão, a velocidade e a precisão na triagem são críticas. Muitos investidores preenchem formulários de forma apressada. Um lead com potencial de milhões pode ser classificado como "frio" apenas por selecionar uma opção padrão, resultando em perda de receita.
