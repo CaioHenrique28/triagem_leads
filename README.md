@@ -2,45 +2,48 @@
 
 [![Testar Simulador](https://img.shields.io/badge/🤖_Simulador-Testar_Agora-brightgreen?style=for-the-badge)](https://CaioHenrique28.github.io/triagem_leads/)
 
-Este projeto apresenta uma solução de **Inteligência de Dados e Automação** de alto impacto para o mercado imobiliário. O sistema utiliza IA Generativa para identificar intenções de compra de luxo que são frequentemente ignoradas por filtros rígidos de formulários convencionais.
+> **Transformando dados brutos em inteligência comercial para corretores de alta performance.**
+
+Este projeto utiliza **IA Generativa** para realizar uma triagem profunda e qualitativa de leads imobiliários. A solução vai além dos filtros estáticos, analisando o contexto, a urgência e a intenção real de cada contato para garantir que o time de vendas foque no argumento certo para a pessoa certa.
 
 ---
-## 📺 Demonstração do Fluxo (Vídeo)
-Assista à análise em tempo real da IA a identificar o lead VIP:
 
-https://github-production-user-asset-6210df.s3.amazonaws.com/197803257/532441447-9ba8b28a-1865-4272-b8e8-7eef5f8f5de0.mp4
+## 💡 O Problema de Negócio: A "Cegueira de Leads"
+O grande desafio das imobiliárias não é apenas a quantidade de leads, mas a **falta de clareza sobre quem eles são**. Formulários padrão coletam dados, mas não capturam a **intenção humana**.
 
-[▶️ Clique aqui caso o player não carregue](COLE_AQUI_O_LINK_QUE_O_GITHUB_GEROU)
+* **Dados Incompletos:** O corretor recebe uma lista de nomes e e-mails sem saber quem está pronto para fechar e quem está apenas pesquisando.
+* **Abordagem Genérica:** Sem entender a "dor" do cliente, o primeiro contato é frio e tem baixa taxa de conversão.
+* **Ocultação de Oportunidades:** Leads com perfis específicos (como relocação corporativa ou urgência por mudança) ficam perdidos na massa de dados.
 
-## 💡 O Problema de Negócio
-No setor imobiliário de alto padrão, a velocidade e a precisão na triagem são críticas. Muitos investidores preenchem formulários de forma apressada. Um lead com potencial de milhões pode ser classificado como "frio" apenas por selecionar uma opção padrão, resultando em perda de receita.
+---
 
-## 🧠 Solução Técnica e Diferenciais
-Desenvolvi uma arquitetura de dados utilizando o **Google Gemini 2.5 Flash** integrada via **n8n**:
+## 🧠 A Solução: Classificação e Extração de Intenção
+A arquitetura utiliza o **Google Gemini 2.5 Flash** para ler cada lead como um consultor humano faria, extraindo informações vitais que facilitam a venda:
 
-* **Regra de Ouro (Prioridade de Intenção):** O motor de IA foi instruído a dar prioridade absoluta ao processamento de linguagem natural (comentários) sobre os dados estruturados do formulário.
-* **Merge de Dados com JavaScript:** Implementação de um nó de código em Node.js para garantir a integridade dos dados e realizar a fusão entre a análise da IA e os dados de contacto do Webhook.
-* **Segurança e Resiliência:** O fluxo conta com salvaguardas contra *Prompt Injection* e sanitização de dados para evitar falhas em caso de valores nulos.
+### Vantagens Estratégicas:
+* **Classificação Precisa:** Identifica instantaneamente se o lead é um **Comprador**, **Vendedor** ou **Investidor**, independentemente do campo que ele marcou.
+* **Extração de Contexto:** A IA resume o "porquê" do interesse (ex: "Mudança por novo emprego", "Investimento para renda", "Relocação familiar").
+* **Score de Urgência:** Atribui uma prioridade de atendimento baseada no tom de voz e detalhes fornecidos.
+* **Resumo para o Corretor:** Gera um relatório de 2 parágrafos no Gmail com o roteiro sugerido para a abordagem.
+
+---
+
+## 📺 Demonstração em Tempo Real
+Assista como a IA processa um lead complexo e entrega uma análise pronta para o time comercial:
+
+https://github.com/CaioHenrique28/triagem_leads/raw/main/assets/triagem_leads.mp4
 
 ---
 
 ## 🛠️ Stack Tecnológica
 * **Orquestração:** n8n
-* **IA Generativa:** Google Gemini 2.5 Flash (via API)
-* **Base de Dados:** MongoDB Atlas (NoSQL)
-* **Linguagem:** JavaScript / Node.js
+* **Inteligência Artificial:** Google Gemini 2.5 Flash (via API)
+* **Base de Dados:** MongoDB Atlas
+* **Linguagem de Lógica:** JavaScript / Node.js
 
 ---
 
 ## 👨‍💻 Sobre o Autor
-**Caio** - Engenheiro de Dados com 12 anos de experiência.
-* Especialista em infraestrutura de dados e automação inteligente.
-* Focado em transformar modelos de linguagem (LLMs) em ferramentas práticas de negócio.
-* Desenvolvendo soluções de vanguarda para o mercado imobiliário e de investimentos.
-
----
-
-## 📂 Estrutura do Repositório
-* `/assets`: Media e demonstrações.
-* `/docs`: Código-fonte do simulador interativo (GitHub Pages).
-* `workflow.json`: Ficheiro de importação para o n8n.
+**Caio** - Especialista em Automação de Dados e Inteligência Artificial.
+* Focado no desenvolvimento de fluxos inteligentes que conectam LLMs a processos de negócio reais.
+* Especialista em transformar automações técnicas em ferramentas de geração de receita.
